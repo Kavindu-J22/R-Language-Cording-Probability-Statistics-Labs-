@@ -1,0 +1,6 @@
+name      age type status
+kavindu   20   M    Pass
+pasindu   21   M    Pass
+amila     22   M    Pass
+Sachitha  22   M    Pass
+Kota      20   M    Pending

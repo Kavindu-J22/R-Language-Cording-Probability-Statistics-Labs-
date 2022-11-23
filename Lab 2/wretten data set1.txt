@@ -1,0 +1,5 @@
+"Employee" "Salary" "class"
+"1" "Kamal" 40000 "A"
+"2" "Amal" 50000 "A"
+"3" "Vimal" 60000 "B"
+"4" "Sunil" 70000 "c"
